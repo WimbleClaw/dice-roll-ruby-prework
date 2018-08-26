@@ -6,7 +6,7 @@ def roll
   rand(1..6)
 end
 
-
+#Then for some extra fun, try to solve this lab using an array.
 
 def roll
 dice = [1,2,3,4,5,6]
